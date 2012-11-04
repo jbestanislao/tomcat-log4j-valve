@@ -3,4 +3,4 @@ tomcat-log4j-valve
 
 Made Tomcat access logs through log4j
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/266cac2dc113352be6e6556b9e081af7 "githalytics.com")](http://githalytics.com/jbestanislao/tomcat-log4j-valve)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/b5cf6e0334e5ef6076eb274010db9ef6 "githalytics.com")](http://githalytics.com/jbestanislao/tomcat-log4j-valve)
